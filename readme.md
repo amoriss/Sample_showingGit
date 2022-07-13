@@ -23,5 +23,5 @@ Add a comment and click the button
 
 Sixth - (onGitHub)
 On original person's repo page - under Pull Request
-find button to Merge and click
+find button to 'Fetchupstream' and click
 this will update your files with changes other people made to the original repo

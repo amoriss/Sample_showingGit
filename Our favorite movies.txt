@@ -1,4 +1,5 @@
 amoriss: Despicable Me
+Travis: Howard The Duck
 Susan Winters: Star Wars
 
 Susan Winters 2: Batman
